@@ -1,0 +1,15 @@
+.set-cuurency-box-budget{
+    width:70%;
+    height:39px;
+}
+
+.set-cuurency-box-impression{
+    width:80%;
+    height:39px;
+    text-align: center;
+    font-size: medium;
+}
+.container-box-size{
+    padding-bottom : 50px;
+    margin-bottom: 50px;
+}

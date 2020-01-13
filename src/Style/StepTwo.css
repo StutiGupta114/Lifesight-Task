@@ -1,0 +1,25 @@
+.customDatePickerWidth, 
+.customDatePickerWidth > div.react-datepicker-wrapper, 
+.customDatePickerWidth > div > div.react-datepicker__input-container,
+.customDatePickerWidth > div > div.react-datepicker__input-container input {
+   width: 95%;
+   height: 39px;
+}
+
+.customDatePickerWidth > div > div.react-datepicker__input-container input{
+    text-align: center;
+    font-size: medium;
+}
+
+
+.container-flex-date{
+    display: flex;
+}
+
+.container-flex-date > div{
+    width:350px;
+}
+.container-box-size{
+    padding-bottom : 50px;
+    margin-bottom: 50px;
+}

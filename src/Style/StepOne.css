@@ -1,0 +1,36 @@
+.container-box{
+    /* position: absolute;
+     left: 20%;
+     top: 20%;
+     transform: translate(-50%, -50%);
+     */
+     margin : 40px;
+     padding : 40px;
+ }
+  .flex-container-camp {
+     display: flex; 
+     padding-bottom: 20px;
+   }
+   .flex-container-camp > div {
+     border : 1px solid black;
+     border-radius: 10px;
+     margin: 10px;
+     padding: 10px;
+     font-size: 15px;
+     width:120px;
+     height:120px;
+   }
+   .flex-container-channel {
+     display: flex; 
+   }
+   .flex-container-channel > div {
+       margin : 10px 0px 10px 0px;
+       padding : 10px 0px 10px 0px;
+       font-size: 15px;
+       width:150px;
+   }
+   .flex-container-channel  input {
+       height:20px;
+       width:20px;
+       margin-right:10px
+   }
